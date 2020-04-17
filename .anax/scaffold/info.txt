@@ -1,0 +1,6 @@
+Create a me-site for the oophp-course.
+
+Standard installation of Anax Flat (latest version),
+adapting for the oophp course me-page requirements,
+using $app as a container for the services and
+routes as programming style.
