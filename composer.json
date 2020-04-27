@@ -5,7 +5,10 @@
     "minimum-stability": "beta",
     "prefer-stable": true,
     "autoload": {
-        "psr-4": {"Anax\\": "src/"}
+        "psr-4": {
+            "Anax\\": "src/",
+            "Ids\\": "src/"
+        }
     },
     "require": {
         "anax/anax-oophp-me": "^2.0.0"
